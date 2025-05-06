@@ -22,7 +22,7 @@ from src.utils.helpers import setup_logging, get_resource_path
 def main():
     """Main application entry point"""
     # Set up application details
-    QCoreApplication.setOrganizationName("UK Business Lead Generator"
+    QCoreApplication.setOrganizationName("UK Business Lead Generator")
     QCoreApplication.setApplicationName("UKLeadGen")
     QCoreApplication.setApplicationVersion("1.0.0")
     
